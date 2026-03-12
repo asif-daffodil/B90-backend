@@ -237,4 +237,6 @@ Implement a `GET /auth/me` route that:
 ---
 
 **Deadline:** One week from today — March 19, 2026
-**Submit:** Zip your project folder (excluding `node_modules`) and upload to the class portal.
+## Submission Instructions
+
+**Submit:** Zip your project folder (excluding `node_modules`) and upload to the class portal. Alternatively, push your code to GitHub and submit the repository link.
