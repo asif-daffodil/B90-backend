@@ -1,0 +1,4 @@
+- create a new mongodb acocunt
+- create a cluster
+- create a username and password
+- connect mongodb compus with mongodb atlus
